@@ -1,0 +1,24 @@
+body {
+    background-color: darkgrey;
+    color: bisque;
+    /* margin: 5% 40%; */
+    text-align: center;
+}
+
+#container {
+    background-color: rgb(17, 37, 218);
+    margin: 5% 30%;
+    padding: 5% 5%;
+}
+
+button {
+    color: bisque;
+    margin: 4% 0% 4%;
+    background-color: black;
+    cursor: pointer;
+}
+
+input,
+button {
+    margin-top: 5%;
+}
